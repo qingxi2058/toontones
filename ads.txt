@@ -1,0 +1,12 @@
+# ads.txt for toontones.net
+# Ad network: Adsterra (Banner 320x50)
+#
+# Adsterra ads do NOT require ads.txt to serve, but adding the authorized-sellers
+# line below improves trust/fill and prevents inventory flagging.
+#
+# TODO: paste your EXACT line from the Adsterra dashboard
+#   (Publishers area -> "ads.txt" prompt/section gives the precise line for your account).
+#   Typical format:  adsterra.com, <your-publisher-id>, DIRECT, <cert-authority-id>
+#
+# The previous "google.com, pub-XXXX..." line was a fake placeholder and was removed
+# (it was never deployed; live /ads.txt was 404).
