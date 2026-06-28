@@ -1,0 +1,22 @@
+ToonTones is a free browser-based color memory game that challenges players to remember and match colors with increasing precision.
+
+Key features:
+- Color Memory Test: Discover how well you recall colors across difficulty levels
+- Daily Color Challenge: A new challenge every day — compete and track improvement
+- Color Accuracy Test: Measure how precisely you perceive color differences
+- No signup, no install — plays instantly in any browser
+- Works on mobile and desktop
+
+Who is it for:
+- Anyone curious about their color perception abilities
+- Artists, designers, and photographers who want to train color sensitivity
+- Casual gamers looking for a quick daily brain workout
+- People who enjoy Wordle-style daily challenges
+
+URL: https://toontones.net
+Color Memory Test: https://toontones.net/color-memory-test/
+Daily Challenge: https://toontones.net/daily-color-challenge/
+Color Accuracy Test: https://toontones.net/color-accuracy-test/
+
+Category: Games / Brain Training / Color Perception
+Tags: color game, memory game, color memory test, daily color challenge, color accuracy, brain game, free game

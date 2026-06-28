@@ -1,0 +1,12 @@
+Title: I made a free color memory game with a daily challenge — curious how others score
+
+Body:
+Hey r/WebGames,
+
+I built ToonTones (https://toontones.net) — a browser-based color memory game where you have to recall and match colors with increasing precision.
+
+There's a daily color challenge mode where everyone gets the same colors each day, and a color memory test that gives you a score based on how accurately you remember colors after a short delay.
+
+No accounts, no installs, works on mobile too. Would love feedback on difficulty balance — I'm wondering if the hardest level is actually hard enough.
+
+[Direct link to the color memory test: https://toontones.net/color-memory-test/]

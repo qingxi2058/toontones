@@ -1,0 +1,249 @@
+{
+  "site": {
+    "url": "https://toontones.net",
+    "name": "ToonTones",
+    "tagline": "Free color memory game — test your color perception daily",
+    "category": ["color game", "brain game", "color memory", "daily challenge"],
+    "target_keyword": "color memory game"
+  },
+  "pages": [
+    {
+      "url": "https://toontones.net/",
+      "title": "ToonTones – Color Memory Game",
+      "description": "Free browser-based color memory game. Test how well you can remember and match colors. Daily challenge mode included."
+    },
+    {
+      "url": "https://toontones.net/color-memory-test/",
+      "title": "Color Memory Test – ToonTones",
+      "description": "Take this free color memory test to discover how accurately you recall colors. No signup needed, instant results."
+    },
+    {
+      "url": "https://toontones.net/color-accuracy-test/",
+      "title": "Color Accuracy Test – ToonTones",
+      "description": "Measure your color accuracy and perception with this free online test. Compare your score with other players."
+    },
+    {
+      "url": "https://toontones.net/daily-color-challenge/",
+      "title": "Daily Color Challenge – ToonTones",
+      "description": "A new color challenge every day. Test your color memory and compete on the daily leaderboard."
+    }
+  ],
+  "targets": [
+    {
+      "id": "futurepedia",
+      "name": "Futurepedia",
+      "type": "form",
+      "da": 65,
+      "free": true,
+      "category": "AI tool directory",
+      "submit_url": "https://www.futurepedia.io/submit-tool",
+      "status": "pending",
+      "submitted_at": null,
+      "notes": "Category: Games & Entertainment"
+    },
+    {
+      "id": "theresanaiforthat",
+      "name": "There's An AI For That",
+      "type": "form",
+      "da": 70,
+      "free": true,
+      "category": "AI tool directory",
+      "submit_url": "https://theresanaiforthat.com/submit/",
+      "status": "pending",
+      "submitted_at": null,
+      "notes": "Category: Games & Entertainment"
+    },
+    {
+      "id": "toolify",
+      "name": "Toolify.ai",
+      "type": "form",
+      "da": 55,
+      "free": true,
+      "category": "AI tool directory",
+      "submit_url": "https://www.toolify.ai/submit",
+      "status": "pending",
+      "submitted_at": null,
+      "notes": "Submit as AI game / brain training tool"
+    },
+    {
+      "id": "aitoolnet",
+      "name": "AI Tool Net",
+      "type": "form",
+      "da": 40,
+      "free": true,
+      "category": "AI tool directory",
+      "submit_url": "https://www.aitool.net/submit",
+      "status": "pending",
+      "submitted_at": null,
+      "notes": ""
+    },
+    {
+      "id": "topai_tools",
+      "name": "Top AI Tools",
+      "type": "form",
+      "da": 45,
+      "free": true,
+      "category": "AI tool directory",
+      "submit_url": "https://topai.tools/submit",
+      "status": "pending",
+      "submitted_at": null,
+      "notes": ""
+    },
+    {
+      "id": "aitoptools",
+      "name": "AI Top Tools",
+      "type": "form",
+      "da": 42,
+      "free": true,
+      "category": "AI tool directory",
+      "submit_url": "https://aitoptools.com/submit-tool/",
+      "status": "pending",
+      "submitted_at": null,
+      "notes": ""
+    },
+    {
+      "id": "aitools_fyi",
+      "name": "AITools.fyi",
+      "type": "form",
+      "da": 38,
+      "free": true,
+      "category": "AI tool directory",
+      "submit_url": "https://aitools.fyi/submit",
+      "status": "pending",
+      "submitted_at": null,
+      "notes": ""
+    },
+    {
+      "id": "alternativeto",
+      "name": "AlternativeTo",
+      "type": "form",
+      "da": 80,
+      "free": true,
+      "category": "software directory",
+      "submit_url": "https://alternativeto.net/platform/web/",
+      "status": "pending",
+      "submitted_at": null,
+      "notes": "Add as alternative to Wordle, color games. High DA, worth prioritizing."
+    },
+    {
+      "id": "product_hunt",
+      "name": "Product Hunt",
+      "type": "manual",
+      "da": 91,
+      "free": true,
+      "category": "product launch platform",
+      "submit_url": "https://www.producthunt.com/posts/new",
+      "status": "pending",
+      "submitted_at": null,
+      "notes": "Plan a proper launch day. Get 5+ upvotes in first hour. High impact."
+    },
+    {
+      "id": "hackernews",
+      "name": "Hacker News Show HN",
+      "type": "manual",
+      "da": 90,
+      "free": true,
+      "category": "tech community",
+      "submit_url": "https://news.ycombinator.com/submit",
+      "status": "pending",
+      "submitted_at": null,
+      "notes": "Title: 'Show HN: ToonTones – color memory game with daily challenge (toontones.net)'. Keep tone minimal, no hype."
+    },
+    {
+      "id": "reddit_webgames",
+      "name": "Reddit r/WebGames",
+      "type": "reddit_api",
+      "da": 95,
+      "free": true,
+      "category": "Reddit community",
+      "subreddit": "WebGames",
+      "status": "pending",
+      "submitted_at": null,
+      "notes": "600k+ members. Best subreddit for this. Post color-memory-test page. Needs Reddit OAuth token."
+    },
+    {
+      "id": "reddit_colorimetry",
+      "name": "Reddit r/colorimetry",
+      "type": "reddit_api",
+      "da": 95,
+      "free": true,
+      "category": "Reddit community",
+      "subreddit": "colorimetry",
+      "status": "pending",
+      "submitted_at": null,
+      "notes": "Niche but relevant — color testing audience. Frame as 'color memory test tool'."
+    },
+    {
+      "id": "reddit_mildlyinteresting",
+      "name": "Reddit r/mildlyinteresting",
+      "type": "reddit_api",
+      "da": 95,
+      "free": true,
+      "category": "Reddit community",
+      "subreddit": "mildlyinteresting",
+      "status": "pending",
+      "submitted_at": null,
+      "notes": "Frame as 'I discovered I have terrible color memory' — personal story angle."
+    },
+    {
+      "id": "gameflare",
+      "name": "GameFlare",
+      "type": "form",
+      "da": 48,
+      "free": true,
+      "category": "game directory",
+      "submit_url": "https://gameflare.com/submit-game/",
+      "status": "pending",
+      "submitted_at": null,
+      "notes": "Browser game directory"
+    },
+    {
+      "id": "html5games",
+      "name": "HTML5Games.com",
+      "type": "form",
+      "da": 50,
+      "free": true,
+      "category": "game directory",
+      "submit_url": "https://html5games.com/submit-game",
+      "status": "pending",
+      "submitted_at": null,
+      "notes": "Browser/HTML5 game directory"
+    },
+    {
+      "id": "crazygames",
+      "name": "CrazyGames Developer",
+      "type": "form",
+      "da": 72,
+      "free": true,
+      "category": "game directory",
+      "submit_url": "https://developer.crazygames.com/",
+      "status": "pending",
+      "submitted_at": null,
+      "notes": "High DA — needs developer account registration first"
+    },
+    {
+      "id": "medium",
+      "name": "Medium",
+      "type": "web2",
+      "da": 96,
+      "free": true,
+      "category": "Web 2.0 blog",
+      "submit_url": "https://medium.com/new-story",
+      "status": "pending",
+      "submitted_at": null,
+      "notes": "Write: 'How good is your color memory? I tested 5 free tools'. Link toontones.net naturally."
+    },
+    {
+      "id": "devto",
+      "name": "DEV.to",
+      "type": "web2",
+      "da": 88,
+      "free": true,
+      "category": "developer blog",
+      "submit_url": "https://dev.to/new",
+      "status": "pending",
+      "submitted_at": null,
+      "notes": "Write about building the color game with Cloudflare Workers. Include link naturally in context."
+    }
+  ]
+}
