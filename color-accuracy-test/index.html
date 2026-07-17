@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Color Accuracy Test — Free Online Color Perception Test | ToonTones</title>
-  <meta name="description" content="Free color accuracy test in your browser. ToonTones shows a shade, hides it, then scores how precisely you recreate it with HSL sliders — five rounds, instant 0–10 result. No signup." />
-  <meta property="og:title" content="Color Accuracy Test — How Precise Is Your Color Vision?" />
-  <meta property="og:description" content="Find out how accurately you can reproduce colors from memory. ToonTones gives you five shades, three sliders, and an instant 0–10 accuracy score." />
+  <title>Color Accuracy Test Online — Free HSL Color & Colour Matching Game | ToonTones</title>
+  <meta name="description" content="Take a free color or colour accuracy test online. Match hidden shades with HSL sliders, get an instant 0–10 score, and practice color recall in your browser." />
+  <meta property="og:title" content="Color Accuracy Test — Match a Hidden Shade and Get a Score" />
+  <meta property="og:description" content="Recreate colors from memory with HSL sliders, then get an instant 0–10 accuracy score. Five shades, browser play, no signup." />
   <meta property="og:url" content="https://toontones.net/color-accuracy-test/" />
   <meta property="og:type" content="article" />
   <meta property="og:image" content="https://toontones.net/og-image.png" />
@@ -49,6 +49,22 @@
           "@type": "Answer",
           "text": "Study the target shade for a few seconds, set hue first, then adjust saturation and lightness. Replaying short rounds helps you build better color recall."
         }
+      },
+      {
+        "@type": "Question",
+        "name": "Is colour accuracy the same as color accuracy?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Colour accuracy and color accuracy mean the same thing. ToonTones uses the US spelling in page titles, but the test works the same for players searching with UK spelling."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does this test measure monitor color accuracy?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. ToonTones is a personal color matching and color recall test. It can be affected by your screen, but it does not calibrate or certify a monitor."
+        }
       }
     ]
   }
@@ -81,6 +97,8 @@
     .btn-primary { background: linear-gradient(135deg, var(--lime), var(--cyan)); color: #0c0a1e; font-weight: 800; font-size: 15px; padding: 12px 28px; border-radius: 50px; text-decoration: none; display: inline-block; }
     .btn-primary:hover { opacity: 0.9; text-decoration: none; }
     section { margin-bottom: 56px; }
+    .answer-box { padding: 20px 24px; background: rgba(0,229,255,0.08); border: 1px solid rgba(0,229,255,0.18); border-radius: 16px; margin-top: 24px; }
+    .answer-box p { margin: 0; font-size: 0.96rem; }
     .score-table { width: 100%; border-collapse: collapse; margin-top: 20px; }
     .score-table th, .score-table td { padding: 14px 18px; text-align: left; border-bottom: 1px solid var(--glass-b); font-size: 0.92rem; }
     .score-table th { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; color: var(--muted); font-weight: 700; }
@@ -128,9 +146,12 @@
 
   <section>
     <span class="kicker">Color Accuracy Test</span>
-    <h1>Color Accuracy Test: How Precisely Can You See Color?</h1>
-    <p class="hero-sub">Take this free color accuracy test in your browser. ToonTones shows you a shade, hides it, then scores how precisely you recreate it using HSL sliders — five rounds, instant 0–10 result. No signup, no equipment needed.</p>
+    <h1>Color Accuracy Test: Match a Hidden Shade and Get a Score</h1>
+    <p class="hero-sub">Take this free color accuracy test in your browser. ToonTones shows you a shade, hides it, then scores how closely you recreate it using HSL sliders — five rounds, instant 0–10 result. This page is about match precision, not side-by-side color comparison.</p>
     <a class="btn-primary" href="/" title="Play ToonTones color memory game">▶ Start the Free Color Accuracy Test</a>
+    <div class="answer-box">
+      <p><strong>Quick answer:</strong> this is a browser-based color accuracy test for people, not a monitor calibration tool. It also matches the UK spelling <strong>colour accuracy test</strong>: study a shade, recreate it with HSL sliders, and get a 0–10 matching score.</p>
+    </div>
   </section>
 
   <section>
@@ -141,9 +162,22 @@
   </section>
 
   <section>
+    <h2>Color Accuracy vs Screen Calibration</h2>
+    <p>People search for color accuracy for two different reasons. One group wants to know whether a monitor displays colors correctly. The other wants to test whether their eyes and memory can match a color after seeing it briefly. ToonTones is built for the second use case: personal color recall practice.</p>
+    <p>Your screen still matters. A very warm, cool, dim, or oversaturated display changes how the target shade appears, so your score is best used as a consistent personal benchmark on the same device rather than a lab-grade measurement across different screens.</p>
+    <p>If you need monitor calibration, use dedicated calibration hardware or display test tools. If you want a fast browser-based color accuracy test that measures how closely you can recreate a shade, ToonTones gives you a clear score and repeatable practice loop.</p>
+  </section>
+
+  <section>
     <h2>A Color Find Game With a Score</h2>
     <p>If you are looking for a <strong>color find game</strong>, ToonTones gives that search a clear goal: find the hidden shade as closely as possible, then see an exact accuracy score. You are not just picking the nearest swatch from a list. You build the color yourself with hue, saturation, and lightness controls.</p>
     <p>That makes the test useful for players who enjoy quick browser games and for people who want practical color practice. Each round shows whether your eye missed the hue, made the color too dull, or pushed the shade too light.</p>
+  </section>
+
+  <section>
+    <h2>Color Accuracy Test vs. Color Memory Test vs. Odd Color Out</h2>
+    <p>This page is the precision page in ToonTones. You see a shade, lose it, then get scored on how close your final HSL match is. The <a href="/color-memory-test/" title="Color memory test online">Color Memory Test</a> page explains the recall skill behind that match. The <a href="/odd-color-out/" title="Odd color out game and color difference practice">Odd Color Out</a> page is different again: it keeps all colors visible and trains comparison instead of hidden-shade reconstruction.</p>
+    <p>If your intent is "how accurate was my final match?", stay here. If your intent is "how well do I remember the shade once it disappears?", go to the memory page. If your intent is "can I spot the different tile while all colors stay visible?", use Odd Color Out.</p>
   </section>
 
   <section>
@@ -267,6 +301,14 @@
         <summary>How can I improve my ToonTones color accuracy score?</summary>
         <p>Study the target shade for a few seconds, set hue first, then adjust saturation and lightness. Short repeated rounds are the fastest way to build better color recall.</p>
       </details>
+      <details>
+        <summary>Is colour accuracy the same as color accuracy?</summary>
+        <p>Yes. Colour accuracy and color accuracy mean the same thing. ToonTones uses the US spelling in page titles, but the test is also relevant if you search with UK spelling.</p>
+      </details>
+      <details>
+        <summary>Does this test measure monitor color accuracy?</summary>
+        <p>No. ToonTones measures how closely you can match a remembered shade. Your display affects what you see, but this page does not calibrate, certify, or diagnose monitor color accuracy.</p>
+      </details>
     </div>
   </section>
 
@@ -280,12 +322,11 @@
     <h2>Explore More</h2>
     <div class="related-links">
       <a class="related-link" href="/" title="Play ToonTones color memory game">Play ToonTones Now</a>
+      <a class="related-link" href="/color-memory-test/" title="Color memory test online">Color Memory Test</a>
+      <a class="related-link" href="/odd-color-out/" title="Odd color out game and color difference practice">Odd Color Out</a>
+      <a class="related-link" href="/daily-color-challenge/" title="Daily color challenge on ToonTones">Daily Color Challenge</a>
       <a class="related-link" href="/tone-legends/" title="ToonTones color challenge leaderboard">Tone Legends</a>
       <a class="related-link" href="/how-to-play/" title="How to play ToonTones color memory game">How to Play Guide</a>
-      <a class="related-link" href="/daily-color-challenge/" title="Daily color challenge on ToonTones">Daily Color Challenge</a>
-      <a class="related-link" href="/toon-tone-game/" title="Free toon tone game by ToonTones">Toon Tone Game</a>
-      <a class="related-link" href="/color-memory-game/" title="Guessing the character game and color memory game guide">Character Color Guessing Game</a>
-      <a class="related-link" href="/toon-tone-alternative/" title="toon tone alternative color memory game">Toon Tone Alternative</a>
     </div>
   </section>
 
@@ -301,6 +342,7 @@
   <a href="/color-memory-game/" title="Color memory game guide and practice">Color Memory Game</a>
   <a href="/color-accuracy-test/" title="Color accuracy test with HSL sliders">Color Accuracy Test</a>
   <a href="/color-memory-test/" title="Color memory test — how good is your color recall">Color Memory Test</a>
+  <a href="/odd-color-out/" title="Odd color out game and color difference practice">Odd Color Out</a>
   <a href="/characters/" title="Cartoon character colors and hex codes">Character Colors</a>
   <a href="https://findly.tools/toontones?utm_source=toontones" target="_blank" style="display:inline-block; margin-top:16px;">
     <img src="https://findly.tools/badges/findly-tools-badge-light.svg" alt="Featured on Findly.tools" width="150" />

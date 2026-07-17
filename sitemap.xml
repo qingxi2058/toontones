@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://toontones.net/</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -38,13 +38,19 @@
   </url>
   <url>
     <loc>https://toontones.net/tone-legends/</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.84</priority>
   </url>
   <url>
+    <loc>https://toontones.net/top-100-tone-legends/</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.82</priority>
+  </url>
+  <url>
     <loc>https://toontones.net/color-accuracy-test/</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-07-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.82</priority>
   </url>
@@ -53,6 +59,12 @@
     <lastmod>2026-06-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.82</priority>
+  </url>
+  <url>
+    <loc>https://toontones.net/odd-color-out/</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
   </url>
   <url>
     <loc>https://toontones.net/characters/spongebob-color/</loc>
@@ -86,79 +98,79 @@
   </url>
   <url>
     <loc>https://toontones.net/cartoon-color-guessing-game/</loc>
-    <lastmod>2026-06-20</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.86</priority>
   </url>
   <url>
     <loc>https://toontones.net/anime-color-guessing-game/</loc>
-    <lastmod>2026-06-20</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.82</priority>
   </url>
   <url>
     <loc>https://toontones.net/video-game-color-guessing-game/</loc>
-    <lastmod>2026-06-20</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.82</priority>
   </url>
   <url>
     <loc>https://toontones.net/how-to-score-color-memory-game/</loc>
-    <lastmod>2026-06-20</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.78</priority>
   </url>
   <url>
     <loc>https://toontones.net/web-mentions/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.68</priority>
   </url>
   <url>
     <loc>https://toontones.net/characters/stitch-color/</loc>
-    <lastmod>2026-06-20</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.72</priority>
   </url>
   <url>
     <loc>https://toontones.net/characters/goku-color/</loc>
-    <lastmod>2026-06-20</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.72</priority>
   </url>
   <url>
     <loc>https://toontones.net/characters/bugs-bunny-color/</loc>
-    <lastmod>2026-06-20</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.72</priority>
   </url>
   <url>
     <loc>https://toontones.net/characters/sonic-color/</loc>
-    <lastmod>2026-06-20</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.72</priority>
   </url>
   <url>
     <loc>https://toontones.net/characters/mickey-mouse-color/</loc>
-    <lastmod>2026-06-20</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.72</priority>
   </url>
   <url>
     <loc>https://toontones.net/characters/superman-color/</loc>
-    <lastmod>2026-06-20</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.72</priority>
   </url>
   <url>
     <loc>https://toontones.net/characters/patrick-star-color/</loc>
-    <lastmod>2026-06-20</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.72</priority>
   </url>
   <url>
     <loc>https://toontones.net/characters/donald-duck-color/</loc>
-    <lastmod>2026-06-20</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.72</priority>
   </url>
